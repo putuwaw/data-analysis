@@ -4,7 +4,7 @@ Data Analysis with Python Projects - [freeCodeCamp](https://www.freecodecamp.org
 
 ## Projects
 
-- [ ] Mean-Variance-Standard Deviation Calculator
+- [x] Mean-Variance-Standard Deviation Calculator
 - [ ] Demographic Data Analyzer
 - [ ] Medical Data Visualizer
 - [ ] Page View Time Series Visualizer
