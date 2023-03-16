@@ -7,5 +7,5 @@ Data Analysis with Python Projects - [freeCodeCamp](https://www.freecodecamp.org
 - [x] Mean-Variance-Standard Deviation Calculator
 - [x] Demographic Data Analyzer
 - [x] Medical Data Visualizer
-- [ ] Page View Time Series Visualizer
+- [x] Page View Time Series Visualizer
 - [ ] Sea Level Predictor
