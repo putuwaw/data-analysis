@@ -8,4 +8,4 @@ Data Analysis with Python Projects - [freeCodeCamp](https://www.freecodecamp.org
 - [x] Demographic Data Analyzer
 - [x] Medical Data Visualizer
 - [x] Page View Time Series Visualizer
-- [ ] Sea Level Predictor
+- [x] Sea Level Predictor
